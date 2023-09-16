@@ -1,5 +1,6 @@
 # Upload AI
 Project developed using artificial inteligence during the NLW event from Rocketseat. In this project, the user can upload a video and a title and a description will be generated based on the audio of the video.
+The back-end of the project is in this repository: https://github.com/francinehahn/nlw-ai-server
 
 ## Technologies used:
 - React
